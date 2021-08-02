@@ -317,7 +317,7 @@
   <g
      style="font-style:normal;font-weight:normal;font-size:15.2857px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:0.495968;stroke:none;stroke-width:0.382143;filter:url(#filter930)"
      id="text872-3"
-     transform="matrix(1.0438526,0,-0.12072956,0.99273779,4.3393171,5.5666101)"
+     transform="matrix(1.0438526,0,-0.12072956,0.99273779,0.63515023,5.5666101)"
      aria-label=".app">
     <path
        id="path1651"
@@ -339,7 +339,7 @@
   <g
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.3929px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.382143;filter:url(#filter934)"
      id="text2113-0"
-     transform="matrix(1.0438526,0,-0.12072956,0.99273779,4.3393171,5.5666101)"
+     transform="matrix(1.0438526,0,-0.12072956,0.99273779,0.63515023,5.5666101)"
      aria-label="iSketch">
     <path
        id="path1636"
@@ -373,7 +373,7 @@
   <g
      style="font-style:normal;font-weight:normal;font-size:15.2857px;line-height:1.25;font-family:sans-serif;display:inline;opacity:0.400641;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.382143;filter:url(#filter962)"
      id="text872-9"
-     transform="matrix(1.0438526,0,-0.12072956,0.99273779,4.3393171,6.1421162)"
+     transform="matrix(1.0438526,0,-0.12072956,0.99273779,0.63515023,6.1421162)"
      aria-label=".app">
     <path
        id="path1627"
@@ -395,7 +395,7 @@
   <g
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.3929px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:0.400641;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.382143;filter:url(#filter966)"
      id="text2113-1"
-     transform="matrix(1.0438526,0,-0.12072956,0.99273779,4.3393171,6.1421162)"
+     transform="matrix(1.0438526,0,-0.12072956,0.99273779,0.63515023,6.1421162)"
      aria-label="iSketch">
     <path
        id="path1660"
@@ -481,7 +481,7 @@
   <g
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.0112px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.389013"
      id="text2113"
-     transform="matrix(1.0254213,0,-0.11859783,0.97520893,0,0)"
+     transform="matrix(1.0254213,0,-0.11859783,0.97520893,-3.7041668,0)"
      aria-label="iSketch">
     <path
        id="path1612"
@@ -515,7 +515,7 @@
   <g
      style="font-style:normal;font-weight:normal;font-size:15.5605px;line-height:1.25;font-family:sans-serif;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.389013"
      id="text872"
-     transform="matrix(1.0254213,0,-0.11859783,0.97520893,0,0)"
+     transform="matrix(1.0254213,0,-0.11859783,0.97520893,-3.7041668,0)"
      aria-label=".app">
     <path
        id="path1603"
