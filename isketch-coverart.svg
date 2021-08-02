@@ -8,6 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="184.72728"
+   inkscape:export-xdpi="184.72728"
+   inkscape:export-filename="C:\Users\dylan\Desktop\isketch-coverart.png"
    sodipodi:docname="isketch-coverart.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -17,6 +20,35 @@
    width="210mm">
   <defs
      id="defs2">
+    <pattern
+       patternTransform="matrix(23.033928,0,0,23.033928,42.440044,78.626991)"
+       id="pattern3691"
+       xlink:href="#Checkerboard"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard"
+       inkscape:stockid="Checkerboard"
+       inkscape:isstock="true">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect2726" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect2728" />
+    </pattern>
     <linearGradient
        id="linearGradient937"
        inkscape:collect="always">
@@ -152,9 +184,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg8"
      inkscape:document-units="mm"
-     inkscape:cy="730.52747"
-     inkscape:cx="-63.848194"
-     inkscape:zoom="0.45640156"
+     inkscape:cy="846.27214"
+     inkscape:cx="-12.388804"
+     inkscape:zoom="0.22820078"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -173,15 +205,29 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     y="-84.63855"
+     x="-52.17445"
+     height="412.93872"
+     width="333.10742"
+     id="rect3645"
+     style="display:inline;opacity:1;fill:#0a0a0a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:18.713;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:88.7603;stroke-opacity:1;paint-order:fill markers stroke"
+     sodipodi:insensitive="true" />
+  <path
+     sodipodi:insensitive="true"
+     d="M -77.738207,-116.32883 H 280.93298 v 444.629 H -77.738207 Z"
+     style="display:inline;opacity:1;fill:url(#pattern3691);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.7951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:88.7603;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect3617" />
   <g
+     sodipodi:insensitive="true"
      style="display:inline;opacity:1"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="BG"
-     sodipodi:insensitive="true">
+     inkscape:label="BG">
     <g
+       sodipodi:insensitive="true"
        style="opacity:1;filter:url(#filter86)"
-       transform="matrix(-6.8751551,-13.612649,2.6722322,-15.414663,69.127038,474.08845)"
+       transform="matrix(-6.8751551,-9.6617076,2.6722322,-10.940704,143.29356,405.91208)"
        clip-path="none"
        id="g969">
       <rect
